@@ -1,0 +1,66 @@
+YEAR,AUTOR,TITLE,TUTORS
+2015,José Francisco Muñoz Fortes,Cartelería digital basada en Raspeberry Pi,Enrique Márquez Segura
+2015,Rocío Duarte Gallardo,Herramienta docente en Android para el estudio de Ingeniería Electromagnética,Enrique Márquez Segura
+2015,Diego Rodríguez Flores,Diseño e implementación de un sistema de conmutación empotrado basado en Arduino,Enrique Márquez Segura
+2015,Anas Oudghiri,Herramienta docente en android para el aprendizaje en circuitos y sistemas,Enrique Márquez Segura
+2015,Mario Pérez Escribano,Desarrollo de efectos digitales en tiempo real para instrumentos musicales,Enrique Márquez Segura
+2015,Guillermo Orellana Ruiz,Herramienta Android para medición de ruido ambiental y su representación geolocalizada,Enrique Márquez Segura
+2015,Carlos Castillo Villalta,Diseño de una antena de banda ancha para un sistema RFID sin CHIP,Enrique Márquez Segura
+2015,Fernando Meca Gómez,Visualización de correcciones ionosféricas con egnos para posicionamiento por satélite,Teresa M. Martín Guerrero
+2015,Felipe Baena Sánchez,Simulación de sistemas GNSS,Teresa M. Martín Guerrero
+2015,Rocío Rodríguez Cano,Antena en tecnología microstrip,Carlos Camacho Peñalosa
+2015,Antonio Jesús Solano Arana,Diseño y construcción de una antena de bocina piramidal,Carlos Camacho Peñalosa
+2015,Ismael Gamarro Castaño,Medidas SAR para certificación,Carlos Camacho Peñalosa
+2016,Manuel Pérez Calvillo,Plataforma de generación de páginas web para entornos embebidos,Enrique Márquez Segura
+2016,Emilio de Lizaur Pina,Plataforma de generación de páginas web para entornos embebidos ,Enrique Márquez Segura
+2016,Luis Javier Reina Marfil,Desarrollo de un módulo del Kernel encargado de transerencia de pulsos radar sobre Linux,Enrique Márquez Segura
+2016,Luis Vallejo Castro,Antena Microstrip,"Elena Abdo Sánchez, Juana Daphne Baños Polglase"
+2016,Andrés David Aguilar Aguilar,Propagación ionosférica en señales de sistemas GNSS,Teresa M. Martín Guerrero
+2016,Natalia Domínguez Corbacho,Aplicación Java para comunicación con receptores GPS,Teresa M. Martín Guerrero
+2016,Salvador Díaz Burgos,Estudio y diseño de un divisor de potencia Wilkinson asimétrico en banda dual,Carlos Camacho Peñalosa
+2016,Alejandro Sánchez Gómez,Análisis y diseño de un amplificador de banda ancha realimentado,Carlos Camacho Peñalosa
+2017,Carmen Delgado Eslava,Diseño y fabricación de dispositivos pasivos de microondas en tenología Microstrip,Enrique Márquez Segura
+2017,Eduardo Gea Castillo,Herramienta MATLAB para la simulación de estructuras multiconductoras para Chipless-RFID,Enrique Márquez Segura
+2017,Yolanda Podadera Domínguez,Calibración de un sistema de pruebas IEEE 802.11AC,Enrique Márquez Segura
+2017,Flores Fernández Martos,Diseño de una matriz de conmutación basada en MEMS SPDT ,Enrique Márquez Segura
+2017,José Pablo Luque Gómez,Análisis de etiquetas RFID sin chip para aplicaciones de logística,Enrique Márquez Segura
+2017,Alejandro Serrano Serrano,Diseño Front-End Radio Receptor Estación Base LTE,Enrique Márquez Segura
+2017,Pablo Beffa Bandera,Análisis y simulacion de sistemas radar de onda continua,Teresa M. Martín Guerrero
+2017,José Antonio Molina Chiquero,Sistemas globales de navegación por satélite,Teresa M. Martín Guerrero
+2018,Aarón García Luque,Análisis y simulacion de sistemas Radar para aplicaciones automovilísticas,Teresa M. Martín Guerrero
+2018,David Ballesta Villalba,Dipolo doblado de bajo coste,"Carlos Camacho Peñalosa, Juana Daphne Baños Polglase"
+2019,Francisco José Martín Bayona,Diseño de elementos radiantes para RADAR de milimétricas,Enrique Márquez Segura
+2019,Ignacio Cabra Gutiérrez,Análisis electromagnético de etiquetas para identificación por radiofrecuencia,Enrique Márquez Segura
+2019,Borja Gómez Rosas,Caracterización de la impedancia de entrada de antenas microstrip rectangulares,"Carlos Camacho Peñalosa, Elena Abdo Sánchez"
+2019,Rocío Martín Lima,Puesta en marcha de un radar a 77 GHz,"Carlos Camacho Peñalosa, Elena Abdo Sánchez"
+2019,Pablo Mateos Ruiz,Antena directiva FABRY-PEROT,"Elena Abdo Sánchez, Carlos Camacho Peñalosa"
+2019,Salvador Rodríguez Landauro,Bioelectricidad. Simulación en Matlab de estructuras axonales.,Francisco Javier Mata Contreras
+2020,Álvaro Hernández Romero,Desarrollo e implementación de efectos de audio para plugins VST,"Jesús Manuel López Fernández, Mario Pérez Escribano"
+2020,María del Pilar Arias Gutiérrez,Estudio del sistema Galileo e implementación de la señal E1 en AWR,Teresa M. Martín Guerrero
+2020,Antonio Leonés Ortega,Diseño de un Radar CW-FM,Teresa M. Martín Guerrero
+2020,Oscar González Martín,Análisis y simulacion deun sistema radar CWFM,Teresa M. Martín Guerrero
+2020,Yasmina Tnibar,APP Android para el estudio básico de propagación de Ondas,Francisco Javier Mata Contreras
+2020,El Yaakoubi Nissrim Amrani,Procesamiento del complejo QRS característico del electrocardiograma (ECG),Francisco Javier Mata Contreras
+2020,Paula Moya de las Peñas,Diseño de antena de hélice en banda S,Carlos Camacho Peñalosa
+2021,Alicia Cáceres Rodríguez,Desarrollo y realización de un pedal digital para guitarra eléctrica,"Enrique Márquez Segura, Mario Pérez Escribano"
+2021,Antonio Mata Criado,Antena de parche con polarización circular,"Carlos Camacho Peñalosa, Elena Abdo Sánchez"
+2021,Zakariae Benjelloun,Diseño de amplificador para el receptor de un radar de bajo coste,Francisco Javier Mata Contreras
+2022,Julio Cruz Sánchez Paredes,Desarrollo de circuitos y antenas basados en guía de ondas construidos mediante fabricación aditiva para aplicaciones 5G,Enrique Márquez Segura
+2022,Álvaro Sánchez Cerrato,Implementación de interfaz en cuerpo de guitarra eléctrica para procesamiento de efectos digitales en tiempo real,"Mario Pérez Escribano, Enrique Márquez Segura"
+2022,Berta Alfonsín Rodríguez,Análisis de protocolos de iluminación para implementación de un nodo ArtNet-DMX,Mario Pérez Escribano
+2022,Benito Antonio Martín Rubio,Análisis y Simulación del Radar FMCW,Teresa M. Martín Guerrero
+2022,Ana Vázquez Domingo,Diseño-implementación de antena Vivaldi de bajo coste,Francisco Javier Mata Contreras
+2022,Luis Cabrita Vázquez,Antena de bocina piramidal de bajo coste en banda ICM 2.45 GHz,"Carlos Camacho Peñalosa, Juana Daphne Baños Polglase"
+2022,Juan Lara Órpez,Espira apantallada para la banda de UHF,Carlos Camacho Peñalosa
+2023,José Alberto Aranda Bayona,Diseño de antena alimentada por CPW para aplicaciones de Ultra-Wide Band ,"Enrique Márquez Segura, Mario Pérez Escribano"
+2023,Helena Campos Osuna,Construcción de una radio de galena para divulgación,Elena Abdo Sánchez
+2023,María Rodríguez Moyano,Evaluación regulatoria de un equipo ficticio con diversas tecnologias radio para su certificación,Elena Abdo Sánchez
+2023,Luis Mora Gabriel,Antena de parche con polarización circular,Elena Abdo Sánchez
+2023,Pablo Ferrín Lorenzo,Concepto e implementación de una aplicación para la ayuda a la navegación marítima en zonas costeras,Teresa M. Martín Guerrero
+2023,Miguel Flores Díaz,Clasificación automática de música mediante técnicas de Aprendizaje Ensamblado,Francisco Javier Mata Contreras
+2023,Patricia González Navarro,Diseño y caracterización de un amplificador a frecuencias de microondas,Francisco Javier Mata Contreras
+2024,Álvaro Solera Robles,Antena basada en guía circular mediante materiales reciclados,Elena Abdo Sánchez
+2024,Rubén Páez Ballesteros,Estudio sobre el acondicionamiento acústico del teatro Martínez Montañés mediante EASE,Mario Pérez Escribano
+2024,Wiam erragragy El Habti,Diseño de señales para un radar pulsado,Teresa M. Martín Guerrero
+2024,Laura Pérez Rechou,Caracterización de materiales con sensores electromagnéticos basados en resonadores CSRR en tecnología MICROSTRIP,Francisco Javier Mata Contreras
+2024,Ilyass Ouled Hrour Bousseksou,Diseño y fabricación de un híbrido de 90 grados y simulación de un mezclador para aplicaciones radar,Francisco Javier Mata Contreras
