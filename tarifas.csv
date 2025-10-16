@@ -3,13 +3,13 @@ Code,Item,Price
 002,Hora de trabajo diseño para impresora materiales,100€
 003,Hora de trabajo diseño para impresora 3D,20€
 004,Hora de medida en la cámara anecoica,200€
-005,Hora de medida en la unidad de PNA-X,240€
+005,Hora de medida en la unidad de PNA-X,180€
 006,Hora de trabajo en fabricación aditiva (impresora 3D),80€
-007,Hora de trabajo en fabricación con impresora de materiales,180€
+007,Hora de trabajo en fabricación con impresora de materiales,170€
 008,Hora de trabajo en soldadura de componentes,50€
-009,Hora de trabajo en fabricación de PCB,180€
+009,Hora de trabajo en fabricación de PCB,160€
 010,Hora de trabajo en fabricación de antenas de bajo coste,110€
-011,Hora de trabajo del Técnico Especialista,120€
-012,Hora de asesoramiento técnico, 200€
+011,Hora de trabajo del Técnico Especialista,100€
+012,Hora de asesoramiento técnico, 170€
 013,Materiales,Precio bruto del material
 
